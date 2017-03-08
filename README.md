@@ -2,6 +2,7 @@ This is a simple script for AIB Business Banking Customers who use Freeagent
 AIB Business banking does not offer exporting of credit card statements, making getting your credit card transactions into your accounts system somewhat manual.  This script is designed to take some of that effort out of the process.
 
 To use the script:
+
 1. Log into IBB
 2. Go to a credit card statement
 3. Select the text of the statement.
