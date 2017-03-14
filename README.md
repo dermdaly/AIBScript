@@ -18,6 +18,3 @@ The script takes a single parameter, the filename to process and produces its ou
 
 The output file should work fine as an upload to Freeagent.
 
-Known issues:
-
-In AIB, the HTML has commas as thousand separators. You must manually remove them from the input file or the output CSV will have too many commas and won't import to Freeagent. Someone with more sed/awk skills than me could probably fix this. Pull requests accepted!
